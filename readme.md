@@ -29,6 +29,9 @@
     4.img
         readme-img/1.1.xx.png、readme-img/1.2.xx.png        
         
+
+##### 添加Cucumber场景大纲（对应 tag 1.0.2）        
+     复制原有测试用例，将场景(Scenario)改为场景大纲(Scenario Outline)
+     
         
-        
-###### 参考
+##### 参考
