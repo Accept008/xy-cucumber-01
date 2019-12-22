@@ -34,4 +34,5 @@
      复制原有测试用例，将场景(Scenario)改为场景大纲(Scenario Outline)
      
         
-##### 参考
+##### 笔记
+    feature文件只是将场景(Scenario)改为场景大纲(Scenario Outline)，即值改为参数；那么step定义的Java方法是一样的
