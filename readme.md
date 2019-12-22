@@ -14,7 +14,8 @@
         <scope>test</scope>
     </dependency>
     
-##### 操作步骤
+##### 操作步骤（对应 tag 1.0.1）
+
     1.写feature文件（calculator.feature）
 ---
     2.运行RunTest类,编写Step业务（CalculatorRunTest.java）
@@ -24,3 +25,10 @@
 ---        
     3.校验业务
         运行RunTest类,日志控制台查看结果
+---
+    4.img
+        readme-img/1.1.xx.png、readme-img/1.2.xx.png        
+        
+        
+        
+###### 参考

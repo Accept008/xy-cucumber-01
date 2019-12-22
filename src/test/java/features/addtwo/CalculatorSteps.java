@@ -1,15 +1,13 @@
-package features.add;
+package features.addtwo;
 
 import com.qz.xy.add.Calculator;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.junit.Assert;
 import org.hamcrest.Matchers;
+import org.junit.Assert;
 
-// 执行Calculator复制在日志行输出的方法
 public class CalculatorSteps {
-
     private Calculator calculator;
     private int result;
 
